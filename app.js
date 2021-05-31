@@ -28,7 +28,7 @@ function refreshPage(){
 
     // console.log(days,hours,minutes,seconds);
 
-    text[0].innerText= `${days}j ${hours}h ${minutes}m ${seconds}s`;
+    text[0].innerText= `${days}j   ${hours}h   ${minutes}m   ${seconds}s`;
 }
 refreshPage();
 
